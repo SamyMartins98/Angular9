@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Cartolina",
+      "price": 0.4
+    },
+    {
+      "id": 3,
+      "name": "Lapiseira 0.7mm",
+      "price": 4.5
+    },
+    {
+      "id": 4,
+      "name": "Borracha Faber Castell",
+      "price": 2.49
+    },
+    {
+      "id": 5,
+      "name": "Caderno 96 fls",
+      "price": 9.9
+    },
+    {
+      "id": 6,
+      "name": "Lápis HB",
+      "price": 1.2
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 7
+    },
+    {
+      "name": "teste",
+      "price": "14.00",
+      "id": 8
+    }
+  ]
+}
